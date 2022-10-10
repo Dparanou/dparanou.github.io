@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "fc1eda2ad15925bc4f0c",
-    "url": "/static/css/main.16c30171.chunk.css"
+    "revision": "726f9f18eedf18f8cea2",
+    "url": "/static/css/main.6488fd50.chunk.css"
   },
   {
-    "revision": "fc1eda2ad15925bc4f0c",
-    "url": "/static/js/main.fc1eda2a.chunk.js"
+    "revision": "726f9f18eedf18f8cea2",
+    "url": "/static/js/main.c6c1d940.chunk.js"
   },
   {
-    "revision": "ff83ca05cac96a8f59a0",
-    "url": "/static/js/1.ff83ca05.chunk.js"
+    "revision": "53c79066114c2967113d",
+    "url": "/static/js/runtime~main.19b4b8cd.js"
   },
   {
-    "revision": "f1b55561e2f4affa142b",
-    "url": "/static/css/2.08aed58b.chunk.css"
+    "revision": "5aaeced62600c50779de",
+    "url": "/static/css/2.d95243e6.chunk.css"
   },
   {
-    "revision": "f1b55561e2f4affa142b",
-    "url": "/static/js/2.f1b55561.chunk.js"
+    "revision": "5aaeced62600c50779de",
+    "url": "/static/js/2.3267226a.chunk.js"
   },
   {
-    "revision": "3d7e02c74d71bc55d039",
-    "url": "/static/js/runtime~main.3d7e02c7.js"
+    "revision": "f28df56c819ed3903ea1",
+    "url": "/static/js/3.ab8412f9.chunk.js"
   },
   {
     "revision": "1b71e82e5a94f28bef8da984933d1909",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/greece2_el.ee8a86c2.jpg"
   },
   {
-    "revision": "4915a1422ee60f7d23bb9711adfefa21",
+    "revision": "798f2d848d102edc25cf506eac1819cb",
     "url": "/index.html"
   }
 ];
