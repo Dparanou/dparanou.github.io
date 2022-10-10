@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "12144ae179a15381e251",
-    "url": "/static/css/main.fff05dba.chunk.css"
+    "revision": "127107819ee344b2514e",
+    "url": "/static/css/main.16c30171.chunk.css"
   },
   {
-    "revision": "12144ae179a15381e251",
-    "url": "/static/js/main.12144ae1.chunk.js"
+    "revision": "127107819ee344b2514e",
+    "url": "/static/js/main.12710781.chunk.js"
   },
   {
     "revision": "ff83ca05cac96a8f59a0",
     "url": "/static/js/1.ff83ca05.chunk.js"
   },
   {
-    "revision": "2bdae1ac2c8f69aa7c66",
-    "url": "/static/css/2.e91cdafd.chunk.css"
+    "revision": "d9956f05c40fa9aba34f",
+    "url": "/static/css/2.08aed58b.chunk.css"
   },
   {
-    "revision": "2bdae1ac2c8f69aa7c66",
-    "url": "/static/js/2.2bdae1ac.chunk.js"
+    "revision": "d9956f05c40fa9aba34f",
+    "url": "/static/js/2.d9956f05.chunk.js"
   },
   {
     "revision": "3d7e02c74d71bc55d039",
@@ -26,6 +26,10 @@ self.__precacheManifest = [
   {
     "revision": "1b71e82e5a94f28bef8da984933d1909",
     "url": "/static/media/athenaLogo.1b71e82e.jpeg"
+  },
+  {
+    "revision": "a5dc1ae2fb5ad0ac51e045bde555fdc1",
+    "url": "/static/media/arcadia_logo.a5dc1ae2.png"
   },
   {
     "revision": "672d982a0eb19e2941b021dc65373e41",
@@ -64,11 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/greece2_el.ee8a86c2.jpg"
   },
   {
-    "revision": "a5dc1ae2fb5ad0ac51e045bde555fdc1",
-    "url": "/static/media/arcadia_logo.a5dc1ae2.png"
-  },
-  {
-    "revision": "403a5aa747ac016e4407ec072d506748",
+    "revision": "ddf737a169c853d7623eed21fdb93ba0",
     "url": "/index.html"
   }
 ];
