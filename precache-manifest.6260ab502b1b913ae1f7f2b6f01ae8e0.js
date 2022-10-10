@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "002db878b113e6b46e51",
+    "revision": "12144ae179a15381e251",
     "url": "/static/css/main.fff05dba.chunk.css"
   },
   {
-    "revision": "002db878b113e6b46e51",
-    "url": "/static/js/main.002db878.chunk.js"
+    "revision": "12144ae179a15381e251",
+    "url": "/static/js/main.12144ae1.chunk.js"
   },
   {
     "revision": "ff83ca05cac96a8f59a0",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/arcadia_logo.a5dc1ae2.png"
   },
   {
-    "revision": "925db98622eb509b8182db7e47c09647",
+    "revision": "c8b5f2169fcb4f56ecc66cc7ee540584",
     "url": "/index.html"
   }
 ];

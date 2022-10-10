@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.fff05dba.chunk.css",
-  "main.js": "/static/js/main.002db878.chunk.js",
-  "main.js.map": "/static/js/main.002db878.chunk.js.map",
+  "main.js": "/static/js/main.12144ae1.chunk.js",
+  "main.js.map": "/static/js/main.12144ae1.chunk.js.map",
   "static/js/1.ff83ca05.chunk.js": "/static/js/1.ff83ca05.chunk.js",
   "static/js/1.ff83ca05.chunk.js.map": "/static/js/1.ff83ca05.chunk.js.map",
   "static/css/2.e91cdafd.chunk.css": "/static/css/2.e91cdafd.chunk.css",
@@ -20,9 +20,9 @@
   "static/media/greece2_en.jpg": "/static/media/greece2_en.66a9490f.jpg",
   "static/media/greece2_el.jpg": "/static/media/greece2_el.ee8a86c2.jpg",
   "static/media/arcadia_logo.png": "/static/media/arcadia_logo.a5dc1ae2.png",
-  "static/css/main.fff05dba.chunk.css.map": "/static/css/main.fff05dba.chunk.css.map",
   "static/css/2.e91cdafd.chunk.css.map": "/static/css/2.e91cdafd.chunk.css.map",
+  "static/css/main.fff05dba.chunk.css.map": "/static/css/main.fff05dba.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.78dfaca3cb349ce1a46f3f89ecf43c21.js": "/precache-manifest.78dfaca3cb349ce1a46f3f89ecf43c21.js",
+  "precache-manifest.6260ab502b1b913ae1f7f2b6f01ae8e0.js": "/precache-manifest.6260ab502b1b913ae1f7f2b6f01ae8e0.js",
   "service-worker.js": "/service-worker.js"
 }
