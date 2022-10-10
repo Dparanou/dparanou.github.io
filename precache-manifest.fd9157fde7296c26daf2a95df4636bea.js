@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1a4340c0752ec82b72e0",
+    "revision": "670fe01aed8b47cdc53f",
     "url": "/static/css/main.6488fd50.chunk.css"
   },
   {
-    "revision": "1a4340c0752ec82b72e0",
-    "url": "/static/js/main.12781c62.chunk.js"
+    "revision": "670fe01aed8b47cdc53f",
+    "url": "/static/js/main.2fbf0107.chunk.js"
   },
   {
     "revision": "53c79066114c2967113d",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/greece2_el.ee8a86c2.jpg"
   },
   {
-    "revision": "931733e34850c0c2786bbefd05498868",
+    "revision": "7c4a5dd965d675be42b62405b0989f52",
     "url": "/index.html"
   }
 ];
