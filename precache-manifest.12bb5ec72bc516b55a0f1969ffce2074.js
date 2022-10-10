@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/arcadia_logo.a5dc1ae2.png"
   },
   {
-    "revision": "c8b5f2169fcb4f56ecc66cc7ee540584",
+    "revision": "403a5aa747ac016e4407ec072d506748",
     "url": "/index.html"
   }
 ];
