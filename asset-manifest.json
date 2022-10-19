@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.794f1bcb.css",
-    "main.js": "/static/js/main.644e5413.js",
+    "main.js": "/static/js/main.cc83051a.js",
     "static/js/787.11ec7b47.chunk.js": "/static/js/787.11ec7b47.chunk.js",
     "static/media/20220915_3.jpg": "/static/media/20220915_3.9d4850752ccf181bc8ae.jpg",
     "static/media/greece2_el.jpg": "/static/media/greece2_el.28f40483e1da88cc5763.jpg",
@@ -17,11 +17,11 @@
     "static/media/athenaLogo.jpeg": "/static/media/athenaLogo.fd69cbdc840adc122462.jpeg",
     "index.html": "/index.html",
     "main.794f1bcb.css.map": "/static/css/main.794f1bcb.css.map",
-    "main.644e5413.js.map": "/static/js/main.644e5413.js.map",
+    "main.cc83051a.js.map": "/static/js/main.cc83051a.js.map",
     "787.11ec7b47.chunk.js.map": "/static/js/787.11ec7b47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.794f1bcb.css",
-    "static/js/main.644e5413.js"
+    "static/js/main.cc83051a.js"
   ]
 }
